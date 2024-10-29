@@ -13,12 +13,13 @@
 <h2>Table of Contents</h2>
 <ul>
     <li><a href="#introduction">Introduction</a></li>
-    <li><a href="#projects">Projects</a></li>
-    <ul>
-        <li><a href="#Project1">EDA on Titanic Dataset.</a></li>
-        <li><a href="#Project2">ML models on Boston House Prices.</a></li>
-    </ul>
-        
+    <li>
+        <a href="#projects">Projects</a>
+        <ul>
+            <li><a href="#Project1">EDA on Titanic Dataset</a></li>
+            <li><a href="#Project2">ML models on Boston House Prices</a></li>
+        </ul>
+    </li>
     <li><a href="#skills-and-tools">Skills and Tools</a></li>
     <li><a href="#contact">Contact</a></li>
 </ul>
