@@ -15,13 +15,14 @@
     <li><a href="#introduction">Introduction</a></li>
     <li><a href="#projects">Projects</a></li>
     <ul>
-        <li><a href="#exploratory-data-analysis">Exploratory Data Analysis</a></li>
+        <li><a href="#Project1">EDA on Titanic Dataset and a comparitive study on whether dropping a significant chunks of rows, or feature engineering them makes a differnece on survival rates.</a></li>
+        <li><a href="#Project2">Predictive Modeling</a></li>
         <!--
-        <li><a href="#predictive-modeling">Predictive Modeling</a></li>
         <li><a href="#sentiment-analysis">Sentiment Analysis</a></li>
         <li><a href="#clustering-analysis">Clustering Analysis</a></li>
-    </ul>
         -->
+    </ul>
+        
     <li><a href="#skills-and-tools">Skills and Tools</a></li>
     <li><a href="#contact">Contact</a></li>
 </ul>
@@ -32,7 +33,7 @@
 
 <h2 id="projects">Projects</h2>
 
-<h3 id="exploratory-data-analysis">EDA on Titanic Dataset and a comparitive study on whether dropping a significant chunks of rows, or feature engineering them makes a differnece on survival rates. </h3>
+<h3 id="Project1">EDA on Titanic Dataset and a comparitive study on whether dropping a significant chunks of rows, or feature engineering them makes a differnece on survival rates. </h3>
 <ul>
     <li><strong>Dataset:</strong> Titanic</li>
     <li><strong>Goal:</strong> Analyze patterns that influenced survival rates, focusing on demographic factors and passenger classes.</li>
@@ -41,16 +42,18 @@
     <li><strong>Overview:</strong> <a href="https://github.com/ReubenChatterjee/DS-Projects/tree/master/titanic-eda">Link to Project Folder</a></li>
 </ul>
 
-<!--Commented out
 
-<h3 id="predictive-modeling">Predictive Modeling</h3>
+
+<h3 id="Project2"></h3>
 <ul>
-    <li><strong>Dataset:</strong> Housing Prices</li>
-    <li><strong>Goal:</strong> Predict house prices based on various property features using regression models.</li>
-    <li><strong>Skills:</strong> Feature engineering, regression analysis, model evaluation</li>
-    <li><strong>Tools:</strong> Python (Scikit-Learn, Statsmodels)</li>
+    <li><strong>Dataset:</strong>Boston Housing Prices</li>
+    <li><strong>Goal:</strong> Build a predictive model to estimate housing prices by analyzing various neighborhood factors and housing characteristics. The project explores the effects of outlier removal and feature engineering on model accuracy.</li>
+    <li><strong>Skills:</strong>Data cleaning, exploratory data analysis, feature engineering, model optimization, and evaluation.</li>
+    <li><strong>Tools:</strong> Python (Pandas, Seaborn, Matplotlib, XGBoost, Scikit-learn)</li>
     <li><strong>Overview:</strong> <a href="#">Link to Project Folder</a></li>
 </ul>
+
+<!--Commented out
 
 <h3 id="sentiment-analysis">Sentiment Analysis</h3>
 <ul>
@@ -58,7 +61,7 @@
     <li><strong>Goal:</strong> Perform sentiment analysis to classify posts into positive, negative, or neutral categories.</li>
     <li><strong>Skills:</strong> Text preprocessing, NLP, classification models</li>
     <li><strong>Tools:</strong> Python (NLTK, Scikit-Learn, Hugging Face)</li>
-    <li><strong>Overview:</strong> <a href="#">Link to Project Folder</a></li>
+    <li><strong>Overview:</strong> <a href="https://github.com/ReubenChatterjee/DS-Projects/tree/master/Boston%20Assignment">Link to Project Folder</a></li>
 </ul>
 
 <h3 id="clustering-analysis">Clustering Analysis</h3>
