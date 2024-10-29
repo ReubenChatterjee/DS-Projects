@@ -47,7 +47,7 @@
     <li><strong>Goal:</strong> Build a predictive model to estimate housing prices by analyzing various neighborhood factors and housing characteristics. The project explores the effects of outlier removal and feature engineering on model accuracy.</li>
     <li><strong>Skills:</strong>Data cleaning, exploratory data analysis, feature engineering, model optimization, and evaluation.</li>
     <li><strong>Tools:</strong> Python (Pandas, Seaborn, Matplotlib, XGBoost, Scikit-learn)</li>
-    <li><strong>Overview:</strong> <a href="#">Link to Project Folder</a></li>
+    <li><strong>Overview:</strong> <a href="https://github.com/ReubenChatterjee/DS-Projects/tree/master/boston-ML-explore">Link to Project Folder</a></li>
 </ul>
 
 
