@@ -15,12 +15,8 @@
     <li><a href="#introduction">Introduction</a></li>
     <li><a href="#projects">Projects</a></li>
     <ul>
-        <li><a href="#Project1">EDA on Titanic Dataset and a comparitive study on whether dropping a significant chunks of rows, or feature engineering them makes a differnece on survival rates.</a></li>
-        <li><a href="#Project2">Predictive Modeling</a></li>
-        <!--
-        <li><a href="#sentiment-analysis">Sentiment Analysis</a></li>
-        <li><a href="#clustering-analysis">Clustering Analysis</a></li>
-        -->
+        <li><a href="#Project1">EDA on Titanic Dataset.</a></li>
+        <li><a href="#Project2">ML models on Boston House Prices.</a></li>
     </ul>
         
     <li><a href="#skills-and-tools">Skills and Tools</a></li>
@@ -53,27 +49,6 @@
     <li><strong>Overview:</strong> <a href="#">Link to Project Folder</a></li>
 </ul>
 
-<!--Commented out
-
-<h3 id="sentiment-analysis">Sentiment Analysis</h3>
-<ul>
-    <li><strong>Dataset:</strong> Social Media Posts</li>
-    <li><strong>Goal:</strong> Perform sentiment analysis to classify posts into positive, negative, or neutral categories.</li>
-    <li><strong>Skills:</strong> Text preprocessing, NLP, classification models</li>
-    <li><strong>Tools:</strong> Python (NLTK, Scikit-Learn, Hugging Face)</li>
-    <li><strong>Overview:</strong> <a href="https://github.com/ReubenChatterjee/DS-Projects/tree/master/Boston%20Assignment">Link to Project Folder</a></li>
-</ul>
-
-<h3 id="clustering-analysis">Clustering Analysis</h3>
-<ul>
-    <li><strong>Dataset:</strong> Customer Demographics</li>
-    <li><strong>Goal:</strong> Identify customer segments based on purchasing behavior.</li>
-    <li><strong>Skills:</strong> Clustering, feature scaling, cluster analysis</li>
-    <li><strong>Tools:</strong> Python (Scikit-Learn)</li>
-    <li><strong>Overview:</strong> <a href="#">Link to Project Folder</a></li>
-</ul>
-
--->
 
 <h2 id="skills-and-tools">Skills and Tools</h2>
 <ul>
