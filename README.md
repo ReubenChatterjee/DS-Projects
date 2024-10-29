@@ -36,7 +36,7 @@
     <li><strong>Goal:</strong> Analyze patterns that influenced survival rates, focusing on demographic factors and passenger classes.</li>
     <li><strong>Skills:</strong> Data cleaning, visualization, hypothesis testing</li>
     <li><strong>Tools:</strong> Python (Pandas, Matplotlib, Seaborn)</li>
-    <li><strong>Overview:</strong> <a href="#">Link to Project Folder</a></li>
+    <li><strong>Overview:</strong> <a href="https://github.com/ReubenChatterjee/DS-Projects/tree/master/titanic-eda">Link to Project Folder</a></li>
 </ul>
 
 <h3 id="predictive-modeling">Predictive Modeling</h3>
