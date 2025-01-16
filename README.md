@@ -30,7 +30,7 @@
 
 <h2 id="projects">Projects</h2>
 
-<h3 id="Project1">EDA on Titanic Dataset and a comparitive study on whether dropping a significant chunks of rows, or feature engineering them makes a differnece on survival rates. </h3>
+<h3 id="Project1">EDA on Titanic Dataset and a comparitive study on whether dropping a significant chunks of rows, or feature engineering them makes a difference on survival rates. </h3>
 <ul>
     <li><strong>Dataset:</strong> Titanic</li>
     <li><strong>Goal:</strong> Analyze patterns that influenced survival rates, focusing on demographic factors and passenger classes.</li>
